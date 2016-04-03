@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+
+.container {
+  border-width: 1px;
+  background-color: black;
+}
+
+.box {
+  border-width: 1px;
+  margin: auto;
+  width: 450px;
+  height: 450px;
+  background-color: black;
+  margin-top: 15px;
+}
+
+.col-md-4 {
+  border-width: 1px;
+}
+
+.tile {
+  text-align: center;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  width: 130px;
+  height: 130px;
+  margin: 15px 0 15px 0;
+  background-color: dark-grey;
+}
+
+.move {
+  margin: 45px 0 0 0;
+  border-width: 1px;
+}
+
+.modal-title {
+  text-align: center;
+}
+
+.modal-body {
+  text-align: center;
+}
